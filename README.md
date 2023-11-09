@@ -1,5 +1,5 @@
 # RetentionData
-
+[![DOI](https://pubs.acs.org/doi/10.1021/acsomega.3c01348)
 [![DOI](https://zenodo.org/badge/426138381.svg)](https://zenodo.org/badge/latestdoi/426138381)
 [![](https://img.shields.io/badge/docs-dev-blue.svg)](https://JanLeppert.github.io/RetentionData/dev)
 
